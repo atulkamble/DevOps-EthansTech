@@ -1,3 +1,4 @@
+```
 Introduction to DevOps
 
 What is DevOps?, DevOps Roles, DevOps Necessities, DevOps Problems & Solutions, Making a DevOps Transition, Networking Concepts, DevOps: Continuous Delivery & Benefits, DevOps: Lean Thinking, A Change of Culture, Linux Fundamentals, Commands In Linux
@@ -59,3 +60,4 @@ Importance of Continuous Improvement, Metrics and Measurement, Feedback Loops, I
 Real-world DevOps Projects
 
 Case Studies, Hands-on Labs and Workshops, Best Practices and Lessons Learned, Industry Trends, Collaborative Projects, Building a DevOps Portfolio, Future Trends in DevOps
+```
